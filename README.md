@@ -1,6 +1,6 @@
 # IETI_LAB_2
 ## Juan Sebastian Garcia Hincapie
-## Implementing the Users Microservice RESTFUL API
+## Implementing the Task Microservice RESTFUL API
 
 ## insomnia tests:
 
